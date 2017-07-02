@@ -1,0 +1,18 @@
+{
+  "name": "hackerrank-template",
+  "version": "1.0.0",
+  "description": "",
+  "main": "solution.js",
+  "scripts": {
+    "start": "node solution.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "big-number": "^0.4.0",
+    "jquery": "^3.2.1",
+    "lodash": "^4.17.4",
+    "underscore": "^1.8.3"
+  }
+}
